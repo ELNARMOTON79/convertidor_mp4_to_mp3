@@ -10,5 +10,16 @@ Para instalar las bibliotecas necesarias, puedes usar pip, que es el instalador 
 pip install tkinter
 pip install moviepy
 ```
+
+#Instalacion en Linux
+```bash
+sudo pip install tkinter
+sudo pip install moviepy
+```
+Ejecutarlo:
+```bash
+python3 mp4_to_mp3.py
+```
+
 ## USO
 Para usarlo solo tienes que seleccionar el archivo .mp4 que quieres convertir en .mp3 y seleccionar su destino junto con el nombre que le quieras asignar
